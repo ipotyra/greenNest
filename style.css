@@ -6,26 +6,30 @@
 }
 
 body {
-    background: #f3f3f3;
+    background: #e6efe7;
     color: #2c2c2c;
+    margin: 15px;
 }
 
 /* HEADER */
 header {
     background: #e6efe7;
     padding: 20px 0;
+    
 }
 
 .nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-right: 10px;
 }
 
 .logo {
     color: #2b5a3d;
     font-size: 28px;
     font-weight: bold;
+    margin-left: 60px;
 }
 
 nav a {
@@ -33,6 +37,7 @@ nav a {
     text-decoration: none;
     color: #2c2c2c;
     font-weight: 500;
+    margin-right: 20px;
 }
 
 .icons span {
@@ -52,6 +57,7 @@ nav a {
 .hero-content {
     max-width: 600px;
     color: white;
+    margin-left: 60px;
 }
 
 .hero h1 {
