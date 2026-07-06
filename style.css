@@ -118,6 +118,7 @@ nav a {
     background: #f1f6f2;
     padding: 20px;
     border-radius: 10px;
+    margin: 20px;
 }
 
 .why-item h3 {
@@ -143,6 +144,7 @@ nav a {
     background: #f1f6f2;
     padding: 25px;
     border-radius: 12px;
+    margin: 20px;
 }
 
 .plant-card img {
