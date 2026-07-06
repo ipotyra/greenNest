@@ -43,7 +43,7 @@ nav a {
 
 /* HERO SECTION */
 .hero {
-    background: url("img/Download.jpg") center/cover no-repeat;
+    background: url("img/header.jpg") center/cover no-repeat;
     height: 550px;
     display: flex;
     align-items: center;
