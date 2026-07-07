@@ -35,9 +35,14 @@ header {
 nav a {
     margin: 0 15px;
     text-decoration: none;
-    color: #2c2c2c;
-    font-weight: 500;
+    color: #16281d;
+    font-weight: 700;
     margin-right: 20px;
+    transition: color 0.2s ease;
+}
+
+nav a:hover {
+    color: #2b5a3d;
 }
 
 .icons span {
@@ -160,6 +165,7 @@ footer {
 .text-base {
     text-align: left;
     margin-bottom: 10px;
+    color: #515050;
 }
 
 .bigbox {
@@ -178,4 +184,9 @@ footer {
     margin-bottom: 8px;
     display: block;
     color: gray;
+    transition: color 0.2s ease;
+}
+
+.footerlink:hover {
+    color: #2b5a3d;
 }
