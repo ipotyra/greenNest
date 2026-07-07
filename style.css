@@ -152,3 +152,17 @@ nav a {
     border-radius: 12px;
     margin-bottom: 10px;
 }
+
+.bigbox {
+    width: 100%;
+    height: 170px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #f1f6f2;
+    
+}
+
+.footernav {
+    display: block;
+}
